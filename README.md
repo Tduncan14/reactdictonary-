@@ -1,0 +1,2 @@
+# reactdictonary-
+react/dictonary
